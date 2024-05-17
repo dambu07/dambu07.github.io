@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/synclo-virtual-health/static/css/main.e4a9dc2e.css",
+    "main.js": "/synclo-virtual-health/static/js/main.79bfbed8.js",
+    "static/js/453.3c422075.chunk.js": "/synclo-virtual-health/static/js/453.3c422075.chunk.js",
+    "index.html": "/synclo-virtual-health/index.html",
+    "main.e4a9dc2e.css.map": "/synclo-virtual-health/static/css/main.e4a9dc2e.css.map",
+    "main.79bfbed8.js.map": "/synclo-virtual-health/static/js/main.79bfbed8.js.map",
+    "453.3c422075.chunk.js.map": "/synclo-virtual-health/static/js/453.3c422075.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4a9dc2e.css",
+    "static/js/main.79bfbed8.js"
+  ]
+}
